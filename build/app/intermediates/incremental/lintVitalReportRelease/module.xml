@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="E:\Flutter\Best-Flutter-UI-Templates-master\best_flutter_ui_templates\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.1.2"
+    buildFolder="E:\Flutter\Best-Flutter-UI-Templates-master\best_flutter_ui_templates\build\app"
+    bootClassPath="E:\sdk\platforms\android-31\android.jar;E:\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

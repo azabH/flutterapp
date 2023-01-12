@@ -1,0 +1,4 @@
+#Thu Dec 22 13:04:25 EET 2022
+base.0=E\:\\Flutter\\Best-Flutter-UI-Templates-master\\best_flutter_ui_templates\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
